@@ -13,3 +13,4 @@ joblib>=1.4.0
 jupyter
 notebook
 ipykernel
+matplotlib.pyplot
