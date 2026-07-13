@@ -1,0 +1,2 @@
+streamlilt link : https://fp7sxbljue8jwhmnamxvhm.streamlit.app/
+collab link is : https://colab.research.google.com/drive/1OEeCCYMNFQ_7GsMNjkIeKD1tGBMI7rMH?usp=sharing
